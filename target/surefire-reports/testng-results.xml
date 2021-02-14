@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="80" started-at="2020-07-22T01:32:55 IST" finished-at="2020-07-22T01:32:55 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="80" started-at="2020-07-22T01:32:55 IST" finished-at="2020-07-22T01:32:55 IST">
+      <class name="SidProjects.MavenJavaData.mavenData">
+        <test-method status="PASS" signature="dataMav()[pri:0, instance:SidProjects.MavenJavaData.mavenData@57536d79]" name="dataMav" duration-ms="2" started-at="2020-07-22T01:32:55 IST" finished-at="2020-07-22T01:32:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataMav -->
+        <test-method status="PASS" signature="dataMavenss()[pri:0, instance:SidProjects.MavenJavaData.mavenData@57536d79]" name="dataMavenss" duration-ms="0" started-at="2020-07-22T01:32:55 IST" finished-at="2020-07-22T01:32:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataMavenss -->
+      </class> <!-- SidProjects.MavenJavaData.mavenData -->
+      <class name="SidProjects.MavenJavaData.dataMaven">
+        <test-method status="PASS" signature="maveDat()[pri:0, instance:SidProjects.MavenJavaData.dataMaven@6ddf90b0]" name="maveDat" is-config="true" duration-ms="19" started-at="2020-07-22T01:32:55 IST" finished-at="2020-07-22T01:32:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maveDat -->
+        <test-method status="PASS" signature="mavDat()[pri:0, instance:SidProjects.MavenJavaData.dataMaven@6ddf90b0]" name="mavDat" duration-ms="0" started-at="2020-07-22T01:32:55 IST" finished-at="2020-07-22T01:32:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mavDat -->
+      </class> <!-- SidProjects.MavenJavaData.dataMaven -->
+      <class name="SidProjects.MavenJavaData.checkData">
+        <test-method status="PASS" signature="mavenDats()[pri:0, instance:SidProjects.MavenJavaData.checkData@3b0143d3]" name="mavenDats" duration-ms="0" started-at="2020-07-22T01:32:55 IST" finished-at="2020-07-22T01:32:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mavenDats -->
+        <test-method status="PASS" signature="maveDats()[pri:0, instance:SidProjects.MavenJavaData.checkData@3b0143d3]" name="maveDats" is-config="true" duration-ms="0" started-at="2020-07-22T01:32:55 IST" finished-at="2020-07-22T01:32:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maveDats -->
+      </class> <!-- SidProjects.MavenJavaData.checkData -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
