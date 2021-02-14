@@ -12,6 +12,7 @@ public class dataMaven {
 		System.out.println("Changes made by user1");
 		System.out.println("Changes made by user1");
 		System.out.println("Changes made by user1 and then pushed on git. User 2 plz check and approve.");
+		System.out.println("Changes made by user1 and then pushed on git. User 2 plz check and approve. Ok I am approving it.User2 ");
 	}
 	
 	@BeforeTest
