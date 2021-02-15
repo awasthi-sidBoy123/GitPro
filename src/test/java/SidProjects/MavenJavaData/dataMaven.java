@@ -34,7 +34,7 @@ public class dataMaven {
 		System.out.println("Changes made by user1");
 		System.out.println("Changes made by user1");
 	
-	
+	}
 	@BeforeTest
 	public void maveDat() {
 		System.out.println("This is before dat Mav ");
